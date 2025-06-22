@@ -8,7 +8,7 @@
 
 A minimal GraphQL-Apollo/Server starter application that includes both client and server parts.
 
-##Used dependencies:
+## Used dependencies:
 
 - **GraphQL** - Core GraphQL library
 - **apollo-server** - GraphQL server that works with any GraphQL schema
